@@ -1,4 +1,4 @@
 # my first CV
 
 
-gallery/generator_pass/index.html
+https://gandzja.github.io/CV/
